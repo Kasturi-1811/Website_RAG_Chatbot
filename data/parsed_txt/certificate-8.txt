@@ -1,0 +1,20 @@
+HackerRank Certification
+Python (Basic) Certification
+(by HackerRank)
+I successfully earned the
+Python (Basic) Certificate
+from
+HackerRank
+by demonstrating proficiency in core Python programming concepts.
+Certification Body:
+HackerRank
+Date Earned:
+June 14, 2024
+Skills Assessed:
+Data Types, Operators, Conditional Logic, Loops, Functions, String Manipulation, and Basic Data Structures
+Practical Evaluation:
+Completed real-time coding challenges designed to test foundational Python skills.
+Verified Skills:
+Problem-solving using Python, logical thinking, and clean code practices.
+Credential ID:
+995DB470A313

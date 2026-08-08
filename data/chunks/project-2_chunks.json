@@ -1,0 +1,7 @@
+[
+    {
+        "chunk_id": 1,
+        "source": "project-2.txt",
+        "text": "Jewellery Website\nJewellery Website\nI developed a jewelry e-commerce website based on a client’s request to help customers view products without needing to visit the store in person.\nThe website allows users to browse a variety of ornaments made from\nGold\n,\nSilver\n, and\nPlatinum\n, categorized for\nMen\n,\nWomen\n, and\nCouples\n.\nBuilt entirely using front-end technologies, the site includes product images, descriptions, and the owner’s contact details so that interested customers can easily get in touch.\nThis project was developed specifically to meet the client’s goal of making their jewelry collection more accessible online.\nTechnologies Used:\nHTML, CSS, JavaScript\nView on GitHub\nJewellery Website Demo"
+    }
+]

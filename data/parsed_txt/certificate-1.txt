@@ -1,0 +1,22 @@
+TechSaksham Internship
+AI: Transformatie Learning – TechSaksham
+(by Eduskills, Microsoft, and SAP)
+As part of the
+AI: Transformatie Learning
+program under TechSaksham, I developed an AI-powered virtual health assistant to evaluate blood donation eligibility based on health parameters.
+Project:
+AI Virtual Health Assistant for Blood Donation Eligibility
+Duration:
+Jan 15, 2025 – Feb 15, 2025
+Technologies:
+Python, Streamlit, Scikit-learn, Random Forest, Pandas, NumPy, Imbalanced-learn
+Machine Learning Model:
+Built a Random Forest classifier using 1,000+ synthetic health records generated with custom rule-based labels.
+Web Interface:
+Developed an intuitive Streamlit app for real-time eligibility checks based on inputs like age, weight, BP, and conditions.
+Oversampling:
+Used RandomOverSampler to handle class imbalance and improve accuracy.
+Chatbot Integration:
+Added a rule-based NLP chatbot to answer common queries like low hemoglobin tips.
+UX & Explainability:
+Provided clear reasons for ineligibility and personalized health suggestions to enhance user trust.

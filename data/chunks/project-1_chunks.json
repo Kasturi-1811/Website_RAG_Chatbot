@@ -1,0 +1,7 @@
+[
+    {
+        "chunk_id": 1,
+        "source": "project-1.txt",
+        "text": "Blood Donation Eligibility Checker\nBlood Donation Eligibility Checker\nI developed an AI-powered virtual health assistant called\nAI Blood Donation Eligibility Checker\nthat determines whether an individual is eligible to donate blood.\nIt takes into account various medical and personal criteria such as age, recent illnesses, weight, recent blood donations, blood pressure, blood sugar levels, and any existing diseases.\nBased on this input, the model provides an eligibility result. If the person is not eligible, the assistant clearly explains the specific reason(s).\nThis binary classification model was developed using a dataset of 1000 entries during a one-month internship under the\nAI: Transformative Learning\nprogram by\nTechSaksham\n, mentored by\nJay Rathod Sir\n. This was an individual project.\nTechnologies Used:\nPython, Streamlit, Scikit-learn, Random Forest Classifier, Pandas, Numpy, imbalanced-learn\nDomain:\nMachine Learning, Binary Classification\nDuration:\n1 Month\nView on GitHub\nBlood Donation Eligibility Checker"
+    }
+]

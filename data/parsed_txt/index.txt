@@ -1,0 +1,42 @@
+Jeevana Kasturi - Portfolio
+Hi, I am
+Chepuri Jeevana Kasturi
+A passion to become an ML engineer
+Resume
+Contact
+Jeevana Kasturi
+About
+Certifications
+Projects
+Contact
+About Me
+I am very passionate about learning machine learning and building real-world applications with it. I have strong skills in Python programming and a good understanding of machine learning algorithms. To demonstrate my experience, I developed a small AI health assistant - an AI-based blood donation eligibility checker. Additionally, I created a jewelry website using front-end technologies and developing a small chatbot for that site.
+I have good communication skills and can explain technical topics clearly to others. I’m also capable of managing a team effectively, assigning tasks equally, and ensuring that each task is completed before moving on to the next. I am organized, focused, and committed to delivering results.
+Certifications
+AI: Transformative Learning with Techsaksham Internship
+AI-ML Virtual Internship – Google for Developers
+CS50P: Introduction to Programming with Python
+The Joy of Computing Using Python
+Cloud Computing – NPTEL Certification
+Python (Basic) Certification
+Projects
+AI Disease Awareness Chatbot
+AI • Django • Gemini • ML
+Click to View →
+Blood Donation Eligibility
+Random Forest • Streamlit
+Click to View →
+Jewellery Management
+Python • Database
+Click to View →
+Hand Gesture Snake Game
+OpenCV • MediaPipe
+Click to View →
+SkillSwap
+Web Development
+Click to View →
+Contact
+Email:
+jeevanakasturi@gmail.com
+Mobile:
++91 9014521929

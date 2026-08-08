@@ -1,0 +1,22 @@
+Jewellery Website
+Jewellery Website
+I developed a jewelry e-commerce website based on a client’s request to help customers view products without needing to visit the store in person.
+The website allows users to browse a variety of ornaments made from
+Gold
+,
+Silver
+, and
+Platinum
+, categorized for
+Men
+,
+Women
+, and
+Couples
+.
+Built entirely using front-end technologies, the site includes product images, descriptions, and the owner’s contact details so that interested customers can easily get in touch.
+This project was developed specifically to meet the client’s goal of making their jewelry collection more accessible online.
+Technologies Used:
+HTML, CSS, JavaScript
+View on GitHub
+Jewellery Website Demo

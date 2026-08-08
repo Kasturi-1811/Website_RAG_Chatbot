@@ -1,0 +1,7 @@
+[
+    {
+        "chunk_id": 1,
+        "source": "project-3.txt",
+        "text": "Gesture-Controlled Snake Game\nGesture-Controlled Snake Game\nI built a fun and interactive\ngesture-controlled Snake game\nusing Python, OpenCV, and MediaPipe.\nThe game uses real-time hand tracking, allowing players to control the snake using only their index finger—no keyboard or mouse required.\nFeatures include a time limit (1–2 minutes), live scoring, a restart option, and collision detection for an engaging user experience.\nI also ensured the game was optimized by preventing food from spawning off-screen and maintaining a smooth frame rate.\nThis project demonstrates my skills in AI-based interaction, computer vision, and image processing.\nTechnologies Used:\nPython, OpenCV, MediaPipe, Computer Vision, AI Interaction\nView on GitHub"
+    }
+]

@@ -1,0 +1,20 @@
+CS50P: Introduction to Programming with Python – HarvardX
+CS50P: Introduction to Programming with Python
+HarvardX – edX | Issued August 2024
+Successfully completed the prestigious
+CS50P: Introduction to Programming with Python
+course offered by
+HarvardX
+through edX. This course, taught by Professor David J. Malan, focused on the foundational concepts
+of computer science and Python programming.
+Topics Covered:
+Functions, loops, conditionals, data structures, file I/O, regular expressions, object-oriented programming
+Skills Gained:
+Python programming, problem-solving, algorithmic thinking, debugging, and software design principles
+Credential:
+Verified Certificate from Harvard University via edX
+Instructor:
+David J. Malan – Gordon McKay Professor of Computer Science at Harvard
+This course helped build a strong foundation in Python and computational logic through practical problem sets and real-world examples.
+Certificate ID:
+5bf727a3ee8c4f969e932da5aa443057

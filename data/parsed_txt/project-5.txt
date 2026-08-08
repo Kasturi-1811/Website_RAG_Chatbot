@@ -1,0 +1,25 @@
+AI Disease Awareness Chatbot
+AI Disease Awareness Chatbot
+I developed an
+AI-powered Disease Awareness Chatbot
+to provide users with reliable healthcare information through an interactive conversational interface. The chatbot supports multiple languages and helps users understand diseases, symptoms, prevention methods, and general health awareness.
+The application includes an AI-based symptom checker that predicts possible diseases based on user symptoms using a
+Random Forest Classifier
+. It also provides vaccination information, interactive health quizzes, and doctor-managed disease content to improve public health awareness.
+The chatbot integrates the
+Google Gemini API
+to generate intelligent responses for healthcare-related queries while maintaining context-aware conversations. Doctors can manage disease information through an admin panel, making the platform easily updatable without modifying the code.
+Technologies Used:
+Python, Django, Gemini API, Scikit-learn (Random Forest), SQLite, HTML, CSS, Bootstrap, JavaScript, AWS EC2, GitHub
+Machine Learning:
+Random Forest Classifier trained on 3,000 symptom records with 99% test accuracy
+Features:
+AI Chatbot, Symptom Checker, Disease Information, Vaccination Module, Health Quiz, Multilingual Support (English, Hindi & Telugu), Admin Dashboard
+Domain:
+Artificial Intelligence, Machine Learning, Healthcare
+View on GitHub
+Live Website
+🤖 AI Disease Awareness Chatbot
+Explore the live AI-powered healthcare chatbot with multilingual support,
+symptom prediction, health quizzes, and vaccination information.
+🚀 Launch Live Website

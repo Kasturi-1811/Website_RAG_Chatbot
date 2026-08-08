@@ -1,0 +1,28 @@
+NPTEL – The Joy of Computing Using Python
+The Joy of Computing Using Python
+NPTEL – IIT Madras (Jul – Oct 2024)
+Successfully completed the
+12-week NPTEL course
+on
+"The Joy of Computing Using Python"
+offered by
+the
+Indian Institute of Technology Madras
+and funded by the Ministry of Education, Govt. of India.
+Duration:
+July – October 2024
+Instructor:
+Prof. Andrew Thangaraj (IIT Madras)
+Score:
+84% (Elite Certificate)
+Online Assignments:
+23.94 / 25
+Proctored Exam:
+60 / 75
+Course Topics:
+Logic building, Python syntax, problem solving, control flow, functions, and creative coding projects
+Certified Candidates:
+16,472 globally
+This course helped solidify my fundamentals in Python and introduced me to computational thinking through engaging and fun coding challenges.
+Roll No:
+NPTEL24CS113S855801625

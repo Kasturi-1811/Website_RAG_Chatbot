@@ -1,0 +1,12 @@
+Gesture-Controlled Snake Game
+Gesture-Controlled Snake Game
+I built a fun and interactive
+gesture-controlled Snake game
+using Python, OpenCV, and MediaPipe.
+The game uses real-time hand tracking, allowing players to control the snake using only their index finger—no keyboard or mouse required.
+Features include a time limit (1–2 minutes), live scoring, a restart option, and collision detection for an engaging user experience.
+I also ensured the game was optimized by preventing food from spawning off-screen and maintaining a smooth frame rate.
+This project demonstrates my skills in AI-based interaction, computer vision, and image processing.
+Technologies Used:
+Python, OpenCV, MediaPipe, Computer Vision, AI Interaction
+View on GitHub

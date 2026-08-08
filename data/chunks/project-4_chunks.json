@@ -1,0 +1,7 @@
+[
+    {
+        "chunk_id": 1,
+        "source": "project-4.txt",
+        "text": "SkillSwap – Project\nSkillSwap – Mutual Skill Exchange Platform\nI developed a website called\nSkillSwap\nthat helps people connect and exchange skills with one another.\nUsers can post what skills they want to learn and what skills they can teach, making it a mutual learning platform.\nThis project was built during a one-day (9 AM – 5 PM) online hackathon. It promotes peer-to-peer learning by letting users search and connect with others who have complementary skills.\nThe backend was implemented using\nDjango\n, and the platform allows account creation, skill listings, and user matching functionalities.\nTechnologies Used:\nDjango, Python, HTML, CSS, JavaScript\nDuration:\n1-day Hackathon\nView on GitHub\nSkillSwap Project Demo"
+    }
+]

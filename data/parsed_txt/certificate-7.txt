@@ -1,0 +1,29 @@
+Cloud Computing – NPTEL Certification
+Cloud Computing
+NPTEL – IIT Kharagpur (Jan – Apr 2025)
+Successfully completed the
+12-week NPTEL course
+on
+"Cloud Computing"
+,
+offered by the
+Indian Institute of Technology Kharagpur
+under the Ministry of Education, Govt. of India.
+Duration:
+January – April 2025
+Instructor:
+Prof. Haimanti Banerji (IIT Kharagpur)
+Score:
+67% (Elite Certificate)
+Online Assignments:
+24.69 / 25
+Proctored Exam:
+41.84 / 75
+Certified Candidates:
+29,703 participants
+Topics Covered:
+Cloud models, virtualization, storage systems, cloud services, security, deployment
+This course provided in-depth understanding of cloud infrastructure and platforms,
+and gave hands-on exposure to core concepts like virtualization and cloud service models (IaaS, PaaS, SaaS).
+Roll No:
+NPTEL25CS11S1046000171

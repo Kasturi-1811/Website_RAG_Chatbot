@@ -1,0 +1,22 @@
+Blood Donation Eligibility Checker
+Blood Donation Eligibility Checker
+I developed an AI-powered virtual health assistant called
+AI Blood Donation Eligibility Checker
+that determines whether an individual is eligible to donate blood.
+It takes into account various medical and personal criteria such as age, recent illnesses, weight, recent blood donations, blood pressure, blood sugar levels, and any existing diseases.
+Based on this input, the model provides an eligibility result. If the person is not eligible, the assistant clearly explains the specific reason(s).
+This binary classification model was developed using a dataset of 1000 entries during a one-month internship under the
+AI: Transformative Learning
+program by
+TechSaksham
+, mentored by
+Jay Rathod Sir
+. This was an individual project.
+Technologies Used:
+Python, Streamlit, Scikit-learn, Random Forest Classifier, Pandas, Numpy, imbalanced-learn
+Domain:
+Machine Learning, Binary Classification
+Duration:
+1 Month
+View on GitHub
+Blood Donation Eligibility Checker
