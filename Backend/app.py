@@ -1,9 +1,10 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 
-from embedder import load_model, connect_database
-from retriever import retrieve_chunks
-from generator import generate_answer
+from Backend.embedder import load_model, connect_database
+from Backend.retriever import retrieve_chunks
+from Backend.generator import generate_answer
+
 
 
 # --------------------------------------------------
