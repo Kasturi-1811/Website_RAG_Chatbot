@@ -1,7 +1,0 @@
-[
-    {
-        "chunk_id": 1,
-        "source": "certificate-1.txt",
-        "text": "TechSaksham Internship\nAI: Transformatie Learning – TechSaksham\n(by Eduskills, Microsoft, and SAP)\nAs part of the\nAI: Transformatie Learning\nprogram under TechSaksham, I developed an AI-powered virtual health assistant to evaluate blood donation eligibility based on health parameters.\nProject:\nAI Virtual Health Assistant for Blood Donation Eligibility\nDuration:\nJan 15, 2025 – Feb 15, 2025\nTechnologies:\nPython, Streamlit, Scikit-learn, Random Forest, Pandas, NumPy, Imbalanced-learn\nMachine Learning Model:\nBuilt a Random Forest classifier using 1,000+ synthetic health records generated with custom rule-based labels.\nWeb Interface:\nDeveloped an intuitive Streamlit app for real-time eligibility checks based on inputs like age, weight, BP, and conditions.\nOversampling:\nUsed RandomOverSampler to handle class imbalance and improve accuracy.\nChatbot Integration:\nAdded a rule-based NLP chatbot to answer common queries like low hemoglobin tips.\nUX & Explainability:\nProvided clear reasons for ineligibility and personalized health suggestions to enhance user trust."
-    }
-]

@@ -11,6 +11,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script>
 
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="chatbot.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
 
@@ -31,7 +32,7 @@
     </div>
     <div class="mt-4 d-flex gap-3 justify-content-center">
       <a href="https://leetcode.com/u/Jeevanakasturi/" target="_blank">
-        <img src="images\leetcode_icon_image.png" width="30" height="30" alt="Leetcode">
+        <img src="images/leetcode_icon_image.png" width="30" height="30" alt="Leetcode">
       </a>
       <a href="https://github.com/Kasturi-1811" target="_blank">
         <img src="images/github_icon.png" width="30" height="30" alt="GitHub">
@@ -53,6 +54,7 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav gap-3">
           <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#experience">Internships</a></li>
           <li class="nav-item"><a class="nav-link" href="#certifications">Certifications</a></li>
           <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
           <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
@@ -61,7 +63,7 @@
     </div>
   </nav>
 
-  <!-- About Section (Only the image class is updated) -->
+  <!-- About Section -->
  <section id="about" class="container my-5">
   <h2 class="text-center mb-4">About Me</h2>
   <div class="row align-items-center">
@@ -78,21 +80,89 @@
   </div>
 </section>
 
- 
+<!-- Internships Section (reworded to reflect internship-level involvement, not full professional roles) -->
+<section id="experience" class="py-5">
+  <div class="container">
+    <h2 class="text-center mb-2">Internships</h2>
+    <p class="text-center text-muted mb-5">Hands-on learning through short-term internships</p>
+
+    <!-- Internship 1 -->
+    <div class="experience-item mb-5">
+      <div class="experience-content">
+        <h3>AI Virtual Health Assistant Intern</h3>
+        <h5>TechSaksham | Microsoft & SAP Supported Program</h5>
+        <p class="text-muted">1 Month | Online Internship</p>
+
+        <p>
+          Completed a one-month online internship under the <strong>AI: Transformative Learning</strong> program by <strong>TechSaksham</strong>, supported by Microsoft and SAP. As an intern, I learned to build an AI-powered virtual health assistant for checking blood donation eligibility, using <strong>Python, Streamlit, and Machine Learning</strong> under the program's guided curriculum.
+        </p>
+
+        <p>
+          More details on this build are in the <strong>AI Blood Donation Eligibility Checker</strong> project below.
+        </p>
+
+        <ul>
+          <li><strong>Learned:</strong> Python, Streamlit, Scikit-learn</li>
+          <li><strong>Domain:</strong> Healthcare AI</li>
+          <li><strong>Duration:</strong> 1 Month</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Internship 2 -->
+    <div class="experience-item mb-5">
+      <div class="experience-content">
+        <h3>AI / Earth Observation Intern</h3>
+        <h5>Satellite Data Processing & Image Segmentation</h5>
+        <p class="text-muted">1 Month | Online Internship</p>
+
+        <p>
+          As part of this internship, I got hands-on exposure to preprocessing and analyzing satellite imagery. I worked on <strong>7 satellite data samples</strong> to help build a prototype for automated Earth observation analysis.
+        </p>
+
+        <p>
+          I also explored a <strong>U-Net based semantic segmentation model</strong> under guidance, to identify and segment different regions within satellite images.
+        </p>
+
+        <ul>
+          <li><strong>Learned:</strong> Python, U-Net, Image Preprocessing</li>
+          <li><strong>Domain:</strong> Earth Observation, Remote Sensing</li>
+          <li><strong>Duration:</strong> 1 Month</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Internship 3 -->
+    <div class="experience-item mb-5">
+      <div class="experience-content">
+        <h3>LLM Post-Training Intern</h3>
+        <h5>Ethara.ai</h5>
+        <p class="text-muted">3 Months | Internship</p>
+
+        <p>
+          Interned for three months supporting AI model evaluation workflows. My tasks focused on prompt engineering and data labeling to help with the post-training and evaluation of large language models.
+        </p>
+
+        <p>
+          I contributed to labeling and evaluation tasks across <strong>Omni ELO, video, and image-based content</strong>, following project guidelines to assess and flag AI-generated outputs.
+        </p>
+
+        <ul>
+          <li><strong>Learned:</strong> Prompt Engineering, LLM Evaluation, Data Labeling</li>
+          <li><strong>Domain:</strong> Generative AI, Large Language Models</li>
+          <li><strong>Duration:</strong> 3 Months</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</section> 
 
   <!-- Certifications Section -->
   <section id="certifications" class="container my-5">
     <h2 class="text-center mb-4">Certifications</h2>
     <div class="row g-4">
-      <div class="col-md-4">
-        <a class='text-decoration-none text-dark' href='/certificate-1'>
-          <div class="card h-100 shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">AI: Transformative Learning with Techsaksham Internship</h5>
-            </div>
-          </div>
-        </a>
-      </div>
+      
       <div class="col-md-4">
         <a class='text-decoration-none text-dark' href='/certificate-2'>
           <div class="card h-100 shadow-sm">
@@ -258,6 +328,21 @@
       </div>
     </div>
 
+    <div class="col-lg-3 col-md-6">
+      <div class="project-card">
+        <img src="images/research_paper_summarizer.png" alt="Research Paper Summarizer">
+
+        <div class="project-overlay">
+          <h5>AI Research Paper Summarizer</h5>
+          <p>Python • LangChain • Groq • Streamlit</p>
+
+          <a class='btn btn-light btn-sm' href='/project-6'>
+            Click to View →
+          </a>
+        </div>
+      </div>
+    </div>
+
     <!-- Project 2 -->
     <div class="col-lg-3 col-md-6">
       <div class="project-card">
@@ -333,5 +418,119 @@
 </section>
 
 
+
+<!-- ============================= -->
+<!-- AI CHATBOT -->
+<!-- ============================= -->
+
+<div class="chatbot-container">
+
+    <!-- Floating Chat Icon (swapped from speech-bubble emoji to a bot icon) -->
+    <button
+        id="chatbot-toggle"
+        class="chatbot-toggle"
+        aria-label="Open AI chatbot"
+        title="Ask me anything"
+    >
+        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="8" width="18" height="12" rx="3"></rect>
+          <circle cx="8.5" cy="14" r="1.4" fill="currentColor" stroke="none"></circle>
+          <circle cx="15.5" cy="14" r="1.4" fill="currentColor" stroke="none"></circle>
+          <path d="M12 8V4"></path>
+          <circle cx="12" cy="3" r="1.2" fill="currentColor" stroke="none"></circle>
+          <path d="M3 12H1.5"></path>
+          <path d="M22.5 12H21"></path>
+        </svg>
+    </button>
+
+
+    <!-- Chat Window -->
+    <div id="chatbot-window" class="chatbot-window">
+
+        <!-- Chat Header -->
+        <div class="chatbot-header">
+
+            <div class="chatbot-header-info">
+
+                <div class="chatbot-title">
+                    AI Portfolio Assistant
+                </div>
+
+                <div class="chatbot-status">
+                    ● Online
+                </div>
+
+            </div>
+
+
+            <!-- Close button -->
+            <button
+                id="chatbot-close"
+                class="chatbot-close"
+                aria-label="Close chatbot"
+            >
+                ×
+            </button>
+
+        </div>
+
+
+        <!-- Messages -->
+        <div
+            id="chatbot-messages"
+            class="chatbot-messages"
+        >
+
+            <!-- Initial Bot Message -->
+            <div class="chat-message bot-message">
+
+                Hi! 👋
+
+                <br><br>
+
+                I'm Jeevana's AI portfolio assistant.
+
+                <br><br>
+
+                You can ask me about my
+                <strong>projects</strong>,
+                <strong>skills</strong>,
+                <strong>certifications</strong>,
+                <strong>internships</strong>,
+                or experience.
+
+            </div>
+
+        </div>
+
+
+        <!-- Input Area -->
+        <div class="chatbot-input-area">
+
+            <input
+                type="text"
+                id="chatbot-input"
+                placeholder="Ask about my portfolio..."
+                autocomplete="off"
+            >
+
+            <button
+                id="chatbot-send"
+                aria-label="Send message"
+            >
+                ➤
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- Chatbot JavaScript -->
+<script src="chatbot.js"></script>
+
 </body>
+
 </html>

@@ -1,0 +1,7 @@
+[
+    {
+        "chunk_id": 1,
+        "source": "project-6.txt",
+        "text": "AI Research Paper Summarizer\nAI Research Paper Summarizer\nI developed an\nAI Research Paper Summarizer\nthat generates concise and structured summaries of research papers directly from a PDF URL. The application extracts the complete research paper, processes the content using an optimized chunking strategy, and generates a final summary using a large language model.\nThe system uses\nLangChain\nwith\nGroq's Qwen3-32B\nmodel to summarize individual sections and combine them into a comprehensive research paper summary. The chunking approach was optimized to preserve context across pages while reducing token usage and avoiding model rate-limit errors.\nI built the application with a\nStreamlit\nfrontend where users can provide a research paper PDF URL and receive the generated summary. The project also focuses on handling large research papers efficiently within the limitations of a free-tier LLM API.\nTechnologies Used:\nPython, LangChain, Groq, Qwen3-32B, PyMuPDF, Streamlit\nDomain:\nGenerative AI, Large Language Models, Natural Language Processing\nKey Features:\nPDF text extraction, context-aware chunking, multi-stage summarization, token-limit optimization\nView on GitHub\nAI Research Paper Summarizer — Demo"
+    }
+]

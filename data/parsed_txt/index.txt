@@ -6,14 +6,63 @@ Resume
 Contact
 Jeevana Kasturi
 About
+Internships
 Certifications
 Projects
 Contact
 About Me
 I am very passionate about learning machine learning and building real-world applications with it. I have strong skills in Python programming and a good understanding of machine learning algorithms. To demonstrate my experience, I developed a small AI health assistant - an AI-based blood donation eligibility checker. Additionally, I created a jewelry website using front-end technologies and developing a small chatbot for that site.
 I have good communication skills and can explain technical topics clearly to others. I’m also capable of managing a team effectively, assigning tasks equally, and ensuring that each task is completed before moving on to the next. I am organized, focused, and committed to delivering results.
+Internships
+Hands-on learning through short-term internships
+AI Virtual Health Assistant Intern
+TechSaksham | Microsoft & SAP Supported Program
+1 Month | Online Internship
+Completed a one-month online internship under the
+AI: Transformative Learning
+program by
+TechSaksham
+, supported by Microsoft and SAP. As an intern, I learned to build an AI-powered virtual health assistant for checking blood donation eligibility, using
+Python, Streamlit, and Machine Learning
+under the program's guided curriculum.
+More details on this build are in the
+AI Blood Donation Eligibility Checker
+project below.
+Learned:
+Python, Streamlit, Scikit-learn
+Domain:
+Healthcare AI
+Duration:
+1 Month
+AI / Earth Observation Intern
+Satellite Data Processing & Image Segmentation
+1 Month | Online Internship
+As part of this internship, I got hands-on exposure to preprocessing and analyzing satellite imagery. I worked on
+7 satellite data samples
+to help build a prototype for automated Earth observation analysis.
+I also explored a
+U-Net based semantic segmentation model
+under guidance, to identify and segment different regions within satellite images.
+Learned:
+Python, U-Net, Image Preprocessing
+Domain:
+Earth Observation, Remote Sensing
+Duration:
+1 Month
+LLM Post-Training Intern
+Ethara.ai
+3 Months | Internship
+Interned for three months supporting AI model evaluation workflows. My tasks focused on prompt engineering and data labeling to help with the post-training and evaluation of large language models.
+I contributed to labeling and evaluation tasks across
+Omni ELO, video, and image-based content
+, following project guidelines to assess and flag AI-generated outputs.
+Learned:
+Prompt Engineering, LLM Evaluation, Data Labeling
+Domain:
+Generative AI, Large Language Models
+Duration:
+3 Months
 Certifications
-AI: Transformative Learning with Techsaksham Internship
 AI-ML Virtual Internship – Google for Developers
 CS50P: Introduction to Programming with Python
 The Joy of Computing Using Python
@@ -22,6 +71,9 @@ Python (Basic) Certification
 Projects
 AI Disease Awareness Chatbot
 AI • Django • Gemini • ML
+Click to View →
+AI Research Paper Summarizer
+Python • LangChain • Groq • Streamlit
 Click to View →
 Blood Donation Eligibility
 Random Forest • Streamlit
@@ -40,3 +92,19 @@ Email:
 jeevanakasturi@gmail.com
 Mobile:
 +91 9014521929
+AI Portfolio Assistant
+● Online
+×
+Hi! 👋
+I'm Jeevana's AI portfolio assistant.
+You can ask me about my
+projects
+,
+skills
+,
+certifications
+,
+internships
+,
+or experience.
+➤
