@@ -87,12 +87,29 @@ def read_chunk_files():
 
     return all_chunks
 
+
 def connect_database():
     """
     Create or connect to the ChromaDB database.
     """
 
-    client = chromadb.PersistentClient(path="data/chroma_db")
+    # Get the project root directory
+    base_dir = os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+
+    # Build path to ChromaDB
+    chroma_path = os.path.join(
+        base_dir,
+        "data",
+        "chroma_db"
+    )
+
+    client = chromadb.PersistentClient(
+        path=chroma_path
+    )
 
     collection = client.get_or_create_collection(
         name="website_chunks"
