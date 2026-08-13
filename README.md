@@ -7,6 +7,10 @@ The chatbot uses a **Retrieval-Augmented Generation (RAG)** architecture so that
 **Live Demo:**  
 https://jeevanakasturi-portfolio.netlify.app
 
+**Portfolio github Link:** 
+https://github.com/Kasturi-1811/Portfolio.git
+
+
 ---
 
 # Project Overview
