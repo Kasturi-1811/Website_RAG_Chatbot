@@ -27,7 +27,7 @@ Instead of sending the entire portfolio content to an LLM for every question, I 
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
                     PORTFOLIO WEBSITE
